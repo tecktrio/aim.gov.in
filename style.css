@@ -34,8 +34,12 @@ body{
    width: 15;
 }
 .group{
-    display: inline-block;
+    display: flex;
     padding-left: 30;
+ }
+ .arrow{
+    padding: 0;
+    width: 20;
  }
 
 #nav_2 a{
